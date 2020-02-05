@@ -1,5 +1,4 @@
-{
-    "rate": [
+[
       {
         "image": "lib/assets/btc.png",
         "name": "Bitcoin",
@@ -28,4 +27,3 @@
         "marketCapitalization": "10916484012"
       }
     ]
-}
