@@ -1,0 +1,31 @@
+{
+    "rate": [
+      {
+        "image": "lib/assets/btc.png",
+        "name": "Bitcoin",
+        "shortName": "BTC",
+        "price": "9301.97",
+        "change": "-1.00",
+        "tradingVolume": "56134813983",
+        "marketCapitalization": "169270276319"
+      },
+      {
+        "image": "lib/assets/eth.png",
+        "name": "Ethereum",
+        "shortName": "ETH",
+        "price": "187.6",
+        "change": "-1.59",
+        "tradingVolume": "22321961653",
+        "marketCapitalization": "20635657076"
+      },
+      {
+        "image": "lib/assets/xrp.png",
+        "name": "XRP",
+        "shortName": "XRP",
+        "price": "0.249811",
+        "change": "-0.82",
+        "tradingVolume": "2411129631",
+        "marketCapitalization": "10916484012"
+      }
+    ]
+}
